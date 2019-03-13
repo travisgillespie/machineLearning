@@ -1,0 +1,1 @@
+This set of machine learning projects were created while working through these [tutorials](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal) provided by Josh Gordan via Google Developers.
